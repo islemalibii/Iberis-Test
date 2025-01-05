@@ -9,10 +9,10 @@ This is an Ionic Vue application that displays clients and detailed information 
 - **Data Source:** DummyJSON API  
 
 ## Key Files
-- `ClientListItem.vue`  
-- `clients.ts`  
-- `HomePage.vue`  
-- `ViewClientDetails.vue` 
+- `src/components/ClientListItem.vue`  
+- `src/data/clients.ts`  
+- `src/views/HomePage.vue`  
+- `src/views/ViewClientDetails.vue` 
 
 ## Installation Instructions
 ### Clone the repository
